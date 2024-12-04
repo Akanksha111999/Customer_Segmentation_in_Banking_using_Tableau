@@ -11,14 +11,13 @@ ________________________________________________________________________________
 
 
 - 𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬:
-  1.	Customer Distribution by Region: Number of customers in each region of the United Kingdom.
-  2.	Balance Bands: Distribution of customers across different balance bands.
-  3.	Age Groups: Number of customers in each age group.
-  4.	Gender Distribution: Percentage of male and female customers.
-  5.	Job Classification: Distribution of customers by job classification.
-  6.	Customer Demographics: Breakdown of customer demographics in each region (e.g., age, gender, job classification).
-  7.	Customer Insights: Key insights derived from the analysis, such as predominant
-      customer profiles in each region
+  *Customer Distribution by Region: Number of customers in each region of the United Kingdom.
+  *Balance Bands: Distribution of customers across different balance bands.
+  *Age Groups: Number of customers in each age group.
+  *Gender Distribution: Percentage of male and female customers.
+  *Job Classification: Distribution of customers by job classification.
+  *Customer Demographics: Breakdown of customer demographics in each region (e.g., age, gender, job classification).
+  *Customer Insights: Key insights derived from the analysis, such as predominant customer profiles in each region
 
 
 - 𝐀𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
