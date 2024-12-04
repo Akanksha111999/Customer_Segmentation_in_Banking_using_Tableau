@@ -11,20 +11,20 @@ ________________________________________________________________________________
 
 
 - 𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬:
-  *Customer Distribution by Region: Number of customers in each region of the United Kingdom.
-  *Balance Bands: Distribution of customers across different balance bands.
-  *Age Groups: Number of customers in each age group.
-  *Gender Distribution: Percentage of male and female customers.
-  *Job Classification: Distribution of customers by job classification.
-  *Customer Demographics: Breakdown of customer demographics in each region (e.g., age, gender, job classification).
-  *Customer Insights: Key insights derived from the analysis, such as predominant customer profiles in each region
+  - Customer Distribution by Region: Number of customers in each region of the United Kingdom.
+  - Balance Bands: Distribution of customers across different balance bands.
+  - Age Groups: Number of customers in each age group.
+  - Gender Distribution: Percentage of male and female customers.
+  - Job Classification: Distribution of customers by job classification.
+  - Customer Demographics: Breakdown of customer demographics in each region (e.g., age, gender, job classification).
+  - Customer Insights: Key insights derived from the analysis, such as predominant customer profiles in each region
 
 
 - 𝐀𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
-     England is mostly represented by white-collar workers (70%).
-     Customers in Scotland are predominantly males in their late 40s and early 50s, with a low representation of white-collar workers.
-     Data for Wales shows an above-average representation of mid-sized balances.
-     Northern Ireland is mostly represented by female customers in younger age groups
+   - England is mostly represented by white-collar workers (70%).
+   - Customers in Scotland are predominantly males in their late 40s and early 50s, with a low representation of white-collar workers.
+   - Data for Wales shows an above-average representation of mid-sized balances.
+   - Northern Ireland is mostly represented by female customers in younger age groups
 
 
 - 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤: Tableau 
